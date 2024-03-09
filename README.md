@@ -26,12 +26,18 @@ Alternatively, the original *rough* code for training Faster R-CNN exists in thi
 ![Sample Output Image](https://github.com/doobiusP/TRINIT_firstTry_ML/blob/main/sample_output1.jpeg?raw=True)
 ![Sample Output Image](https://github.com/doobiusP/TRINIT_firstTry_ML/blob/main/sample_output2.jpeg?raw=True)
 
-##KEY:
+## KEY:
 D00 - Longitudinal Crack
+
 D10 - Transverse Crack
+
 D20 - Alligator Crack
+
 D40 - Pothole
+
 D44 - Certain Road Markings like Zebra Crossings
-D50 - 
+
+D50 - Objects like Manholes
+
 BG - Background for Images without Bounding Boxes
 
