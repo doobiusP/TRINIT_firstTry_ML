@@ -1,4 +1,4 @@
-# TRINIT_firstTry_ML
+# Faster R-CNN Implementation by firstTry
 Repository for ML Track Problem Statement 1 of Tri-NIT Hackathon 2024 by the team 'firstTry'
 
 Members:
@@ -17,12 +17,12 @@ Pretrained parameters are uploaded as *'FasterRCNN_Params.pth'* which can be loa
 ## Using the Repository:
 To *test* the model, be it locally or on a site such as kaggle, provide the relative path inside your dataset to a folder that contains all testing images that should be classified. The testing code will display the first 20 images alongside their generated bounding boxes and associated labels.
 
-To *train* the model using kaggle, connect to our publicly available dataset (link here) to a notebook and press 'Run All' to begin training. Statistics for every set of iterations will be printed in the log for tracking.
+To *train* the model using kaggle, connect to our publicly available dataset (link above) to any notebook and press 'Run All' to begin training. Statistics for every set of iterations will be printed in the log for tracking.
 
 Alternatively, the original *rough* code for training Faster R-CNN exists in this public <a href="https://www.kaggle.com/code/vedanthnanesha/faster-rcnn-for-road-faults/settings"> kaggle notebook </a>
 
 ## Sample test images:
 ![Sample Output Image](https://github.com/doobiusP/TRINIT_firstTry_ML/blob/main/sample_output0.jpeg?raw=True)
 ![Sample Output Image](https://github.com/doobiusP/TRINIT_firstTry_ML/blob/main/sample_output1.jpeg?raw=True)
-
+![Sample Output Image](https://github.com/doobiusP/TRINIT_firstTry_ML/blob/main/sample_output2.jpeg?raw=True)
 
