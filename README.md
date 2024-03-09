@@ -1,4 +1,4 @@
-# TRINIT_firstTry_ML
+# Faster R-CNN Implementation by firstTry
 Repository for ML Track Problem Statement 1 of Tri-NIT Hackathon 2024 by the team 'firstTry'
 
 Members:
