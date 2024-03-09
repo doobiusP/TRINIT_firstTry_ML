@@ -20,5 +20,6 @@ To *test* the model, be it locally or on a site such as kaggle, provide the rela
 To *train* the model using kaggle, connect to our publicly available dataset (link here) to a notebook and press 'Run All' to begin training. Statistics for every set of iterations will be printed in the log for tracking.
 
 ## Sample test images:
+![Sample Output Image](docs/sample_output0.jpeg)
 
 
