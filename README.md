@@ -19,6 +19,8 @@ To *test* the model, be it locally or on a site such as kaggle, provide the rela
 
 To *train* the model using kaggle, connect to our publicly available dataset (link here) to a notebook and press 'Run All' to begin training. Statistics for every set of iterations will be printed in the log for tracking.
 
+Alternatively, the original *rough* code for training Faster R-CNN exists in this public <a href="https://www.kaggle.com/code/vedanthnanesha/faster-rcnn-for-road-faults/settings"> kaggle notebook </a>
+
 ## Sample test images:
 ![Sample Output Image](https://github.com/doobiusP/TRINIT_firstTry_ML/blob/main/sample_output0.jpeg?raw=True)
 ![Sample Output Image](https://github.com/doobiusP/TRINIT_firstTry_ML/blob/main/sample_output1.jpeg?raw=True)
