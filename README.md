@@ -21,5 +21,6 @@ To *train* the model using kaggle, connect to our publicly available dataset (li
 
 ## Sample test images:
 ![Sample Output Image](https://github.com/doobiusP/TRINIT_firstTry_ML/blob/main/sample_output0.jpeg?raw=True)
+![Sample Output Image](https://github.com/doobiusP/TRINIT_firstTry_ML/blob/main/sample_output1.jpeg?raw=True)
 
 
