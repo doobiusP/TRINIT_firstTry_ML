@@ -1,8 +1,7 @@
 import xml.etree.ElementTree as ET
 
 # Load XML file
-tree = ET.parse('InsertLinktofilelocation') #put your xml file's path here
-root = tree.getroot()
+root = ET.parse('InsertLinktofilelocation').getroot()  # put your xml file's path here
 
 # Extract information
 folder = root.find('folder').text
