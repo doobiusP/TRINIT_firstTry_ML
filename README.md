@@ -12,7 +12,7 @@ The repository contains an XML parser and 2 python files that have been used to 
 
 **The model** is presented as 2 .ipynb files, 1 being the file used for training and visualising progress of the Faster R-CNN during training and the other being a file containing the minimal dependencies required to use the model for testing. Both .ipynb files contain markdown for easier navigation.
 
-Pretrained parameters are uploaded as *'FasterRCNN_Params.pth'* which can be loaded into the testing .ipynb file.
+Pretrained parameters are uploaded as *'FasterRCNN_Params.pth'* which can be loaded into the model in the testing .ipynb file.
 
 ## Using the Repository:
 To *test* the model, for which we have utilised transfer learning principles with RESNET50 base architecture, be it locally or on a site such as kaggle, provide the relative path inside your dataset to a folder that contains all testing images that should be classified. The testing code will display the first 20 images alongside their generated bounding boxes and associated labels.
@@ -26,7 +26,7 @@ Alternatively, the original *rough* code for training Faster R-CNN exists in thi
 ![Sample Output Image](https://github.com/doobiusP/TRINIT_firstTry_ML/blob/main/sample_output1.jpeg?raw=True)
 ![Sample Output Image](https://github.com/doobiusP/TRINIT_firstTry_ML/blob/main/sample_output2.jpeg?raw=True)
 
-## KEY:
+## Key:
 D00 - Longitudinal Crack
 
 D10 - Transverse Crack
