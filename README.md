@@ -15,7 +15,7 @@ The repository contains an XML parser and 2 python files that have been used to 
 Pretrained parameters are uploaded as *'FasterRCNN_Params.pth'* which can be loaded into the testing .ipynb file.
 
 ## Using the Repository:
-To *test* the model, be it locally or on a site such as kaggle, provide the relative path inside your dataset to a folder that contains all testing images that should be classified. The testing code will display the first 20 images alongside their generated bounding boxes and associated labels.
+To *test* the model, for which we have utilised transfer learning principles with RESNET50 base architecture, be it locally or on a site such as kaggle, provide the relative path inside your dataset to a folder that contains all testing images that should be classified. The testing code will display the first 20 images alongside their generated bounding boxes and associated labels.
 
 To *train* the model using kaggle, connect to our publicly available dataset (link above) to any notebook and press 'Run All' to begin training. Statistics for every set of iterations will be printed in the log for tracking.
 
@@ -25,4 +25,13 @@ Alternatively, the original *rough* code for training Faster R-CNN exists in thi
 ![Sample Output Image](https://github.com/doobiusP/TRINIT_firstTry_ML/blob/main/sample_output0.jpeg?raw=True)
 ![Sample Output Image](https://github.com/doobiusP/TRINIT_firstTry_ML/blob/main/sample_output1.jpeg?raw=True)
 ![Sample Output Image](https://github.com/doobiusP/TRINIT_firstTry_ML/blob/main/sample_output2.jpeg?raw=True)
+
+##KEY:
+D00 - Longitudinal Crack
+D10 - Transverse Crack
+D20 - Alligator Crack
+D40 - Pothole
+D44 - Certain Road Markings like Zebra Crossings
+D50 - 
+BG - Background for Images without Bounding Boxes
 
