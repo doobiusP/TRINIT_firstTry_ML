@@ -1,6 +1,8 @@
 # Faster R-CNN Implementation by firstTry
 Repository for ML Track Problem Statement 1 of Tri-NIT Hackathon 2024 by the team 'firstTry'
 
+<a href="https://drive.google.com/drive/folders/1bol2sErTxbk-sf7H31WaaFi_qc4eCzK7?usp=drive_link"> Link to Video </a>
+
 Members:
 - Aaryan Patil
 - Vedanth Nanesha
