@@ -28,7 +28,7 @@ Alternatively, the original *rough* code for training Faster R-CNN exists in thi
 ![Sample Output Image](https://github.com/doobiusP/TRINIT_firstTry_ML/blob/main/sample_output1.jpeg?raw=True)
 ![Sample Output Image](https://github.com/doobiusP/TRINIT_firstTry_ML/blob/main/sample_output2.jpeg?raw=True)
 
-## Key:
+## Key/Legend:
 D00 - Longitudinal Crack
 
 D10 - Transverse Crack
